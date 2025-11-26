@@ -1,4 +1,4 @@
-Frontend: (working on it , but stop stop stop 😰😰😰😰 --- ewwwwwwwwww!! - exammmmmmmmmmmm shit )
+Frontend: (working on it , but stop stop stop 😰😰😰😰 --- ewwwwwwwwww!! - exammmmmmmmmmmm shit <img width="280" height="498" alt="image" src="https://github.com/user-attachments/assets/62ec387a-f9c7-4dc3-9572-ae4726eb7bdc" />)
 
 Next.js 14/15 (App Router)
 
