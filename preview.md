@@ -1,4 +1,4 @@
-Frontend: (workinf on it , but stop stop stop 😰😰😰😰 --- ewwwwwwwwww!! - exammmmmmmmmmmm shit )
+Frontend: (working on it , but stop stop stop 😰😰😰😰 --- ewwwwwwwwww!! - exammmmmmmmmmmm shit )
 
 Next.js 14/15 (App Router)
 
